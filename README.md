@@ -1,4 +1,4 @@
-# financial-affordability-toolkit
+# PFM-tools
 Open source toolkit empowering individuals to make informed financial decisions through privacy-preserving analysis of their bank transactions data
 
 ## Problem
